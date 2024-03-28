@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-st.title('☄️☄️website Devevolping using Python☄️☄️')
-st.header('☄️☄website Devevolping using Python☄️')
+st.title('website Devevolping using Python')
+st.header('☄️website Devevolping using Python☄️')
 st.subheader('peerapon poomtan')
 st.image('pi.jpg')
 
